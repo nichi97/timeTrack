@@ -31,7 +31,6 @@ Time | Content
 
 Period x:
     * Goal:
-    * Goal Achieved:
     * Comments:
 
 ### 06/04/2020
@@ -45,8 +44,24 @@ Period x:
         1. [ ] Planning for summer online classes 
     * Comments:
         * Hope I can keep it up
-        * Still need to plan for summer online class
+        * Still need to plan for summer online classes
         * Associate Ringtong with what specific time slot is a good idea; there is a reason schools are doing it
+1. Period 4:
+    * Goal:
+        1. [-] Planning for summer online classes
+        1. [ ] Send Email to ask about registration
+    * Goal Achieved:
+    * Comments
+        1. Still Plannign for summer online classes, it is important to boil it down.
+
+1. Period 5:
+    * Goal:
+        1. [-] Planning for summer online classes
+        1. [ ] Send Email to ask about registration
+    * Comments:
+        1. Shopping for classes is hard. Think about what I might need for my future research. 
+        1. Still have to plan some more.
+
 
 
 
