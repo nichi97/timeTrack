@@ -13,7 +13,7 @@ Before each period, I would write down my goal for the hour. After I finished th
 ## My Daily Schedule
 
 Time | Content
---------------
+-----|--------
 8:00 - 8:50 | Period 1
 9:00 - 9:50 | Period 2
 10:00 - 10:30 | Workout / Resting
