@@ -48,7 +48,7 @@ Period x:
         * Associate Ringtong with what specific time slot is a good idea; there is a reason schools are doing it
 1. Period 4:
     * Goal:
-        1. [-] Planning for summer online classes
+        1. [ ] Planning for summer online classes (In Progress)
         1. [ ] Send Email to ask about registration
     * Goal Achieved:
     * Comments
@@ -56,11 +56,31 @@ Period x:
 
 1. Period 5:
     * Goal:
-        1. [-] Planning for summer online classes
+        1. [ ] Planning for summer online classes (In Progress)
         1. [ ] Send Email to ask about registration
-    * Comments:
+    * Comments
         1. Shopping for classes is hard. Think about what I might need for my future research. 
-        1. Still have to plan some more.
+        1. Found resource on network analysis
+
+1. Period 6: 
+    * Goal: 
+        1. [ ] Planning for summer online classes (In Progress)
+    * Comments
+        1. Finished finding resources for deep learning, Causal Inference, Statistical Learning
+        1. It is hard to find resources on causal inference. However, I am mostly done with the resources gathering.
+
+1. Period 7: 
+    * Goal: 
+        1. [x] Send Email to ask about registration
+        1. [x] Finalize course resources page, post on github
+        1. [ ] Come up with course scheduling and check point
+    * Comments
+        1. Email sent
+        1. Still working on schedule, but for now it is divided into four phases, planned out depended on dependency
+
+
+
+    
 
 
 
