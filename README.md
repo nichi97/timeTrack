@@ -78,6 +78,43 @@ Period x:
         1. Email sent
         1. Still working on schedule, but for now it is divided into four phases, planned out depended on dependency
 
+### 06/05/2020
+
+Daily Goal: 
+1. Finalize summer class schedules
+2. Comtemplate on Hong Kong, George Floyd, and protests
+3. 2 Classes on Convex Optimization
+4. 2 Classes on Statistics
+5. Code 
+
+* Period 1:
+    * Goals: 
+        1. [ ] Finish 1 Leetcode problem (In Progress)
+        1. [x] Set up daily plan
+    * Comments:
+        1. Done with python library, but now building it from scratch 
+
+* Period 2:
+    * Goals: 
+        1. [x] Polish randomPickWithWeight.py Leetcode problem 
+        1. [ ] Watch Stat video lecture (In Progress)
+    * Comments:
+        1. Finished leetcode problem today, improved method
+        1. Started on Stat video
+
+
+* Period 3:
+    * Goals: 
+        1. [ ] Watch Stat video lecture (In Progress)
+    * Comments:
+
+
+
+
+
+
+
+
 
 
     
