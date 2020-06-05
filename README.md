@@ -97,7 +97,7 @@ Daily Goal:
 * Period 2:
     * Goals: 
         1. [x] Polish randomPickWithWeight.py Leetcode problem 
-        1. [ ] Watch Stat video lecture (In Progress)
+        1. [ ] Watch Stat video lecture 1(In Progress)
     * Comments:
         1. Finished leetcode problem today, improved method
         1. Started on Stat video
@@ -105,8 +105,29 @@ Daily Goal:
 
 * Period 3:
     * Goals: 
-        1. [ ] Watch Stat video lecture (In Progress)
+        1. [ ] Watch Stat video lecture 1(In Progress)
     * Comments:
+        1. Still watching it, 10 mins left in the first lecture
+        1. So far pretty easy, I can watch another one in a faster speed
+
+
+* Period 4:
+    * Goals: 
+        1. [X] Watch Stat video lecture 1
+        1. [ ] Watch Stats video lecture 2 (halted)
+    * Comments:
+        1. It would be better to do the homework first before jumping to the lecture. 
+        1. Will start doiong the Problem set 1 
+
+* Period 5:
+    * Goals:
+        1. [ ] Finish 18.650 Stats Problem Set 1
+
+
+
+
+
+
 
 
 
