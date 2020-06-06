@@ -121,25 +121,11 @@ Daily Goal:
 
 * Period 5:
     * Goals:
-        1. [ ] Finish 18.650 Stats Problem Set 1
+        1. [ ] Finish 18.650 Stats Problem Set 1 (halted)
+    * Comments:
+        1. Analysis has always been coming back and bite my ass. I am stucked at convergence of random variables.
+        1. Next period, I will review the notion of sequence, as well as convergence from real analysis.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-    
-
-
-
+* Period 6, Period 7:
+    * Went do grocery, didn't finish period 6 and 7 today :(
 
