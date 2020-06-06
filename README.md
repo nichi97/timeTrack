@@ -129,3 +129,35 @@ Daily Goal:
 * Period 6, Period 7:
     * Went do grocery, didn't finish period 6 and 7 today :(
 
+
+### 06/06/2020
+
+Daily Goal: 
+    [ ] Review Limit
+    [ ] Review Convergence
+    [ ] Finish homework Stats homework 1
+    [ ] Watch Khan Academy 
+
+* Period 1:
+    * Goals:
+        1. [X] Watch Khan Academy Macroecon, finish demand module and supply module (half done)
+    * Comments:
+        1. Only finished the demand module, easy peasy. 
+
+* Period 2: 
+    * Goals:
+        1. [ ] Finish Leetcode Daily Challence (In Progress)
+        1. [ ] Read about limit
+    * Comments:
+        * Found an algorithm, half way done coding it
+
+* Period 3: 
+    * Goals:
+        1. [X] Finish Leetcode Daily Challence 
+        1. [ ] Read about limit (In Progress)
+
+    * Comments:
+        * Finished queue reconstruction by height
+        * Reading converngence in Rudin. Good old days from MATH 140A. Still reading it tho.
+
+
