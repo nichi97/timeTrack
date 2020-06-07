@@ -160,4 +160,38 @@ Daily Goal:
         * Finished queue reconstruction by height
         * Reading converngence in Rudin. Good old days from MATH 140A. Still reading it tho.
 
+* Period 4:
+    * Goals:
+        1. [x] Finish Reading about Convergence
+        2. [X] Do some practices on convergence
+    * Comments:
+        * Finished reading convergence, sort of gets the concept of "convergence in probability". Still need more practice
+        * Starting to watch video 2 of Stats, because he actually covers some of the homework problems
+
+* Period 5:
+    * Goals:
+        1. [ ] Finish Stats Video Lecture 2 ( In Progress )
+    * Comments:
+        * Finished half of the stats video lecture 2
+
+* Period 6
+    * Goals:
+        1. [ ] Finish Stats Video Lecture 2 ( In Progress )
+    * Comments:
+        * Class at MIT is HARD! But also very satisfying to learn. I have 20 mins left in the class, and hopefully I will be able to finish it by the end of next period.
+
+* Period 7
+    * Goals:
+        1. [X] Finish Stats Video Lecture 2
+
+    * Comments:
+        * I am done with the lecture indeed, but there are some things I need to slow down and understand. 
+        * That includes
+            * Central Limit theorem
+            * Law of large numbers
+            * The last example
+            * All the convergences
+            * Slutsky's Theorem
+        * This class explains many of the concepts that I took without much confidence before. Slow down and take it in! 
+
 
