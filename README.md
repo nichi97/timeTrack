@@ -133,10 +133,10 @@ Daily Goal:
 ### 06/06/2020
 
 Daily Goal: 
-    [ ] Review Limit
-    [ ] Review Convergence
+    [x] Review Limit
+    [x] Review Convergence
     [ ] Finish homework Stats homework 1
-    [ ] Watch Khan Academy 
+    [x] Watch Khan Academy 
 
 * Period 1:
     * Goals:
