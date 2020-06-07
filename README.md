@@ -194,4 +194,30 @@ Daily Goal:
             * Slutsky's Theorem
         * This class explains many of the concepts that I took without much confidence before. Slow down and take it in! 
 
+### 06/07/2020
+Daily Goals: 
+    [ ] Finish Stats Problem Set 1
+    [ ] Reflect on current events
+    [ ] Review Stats and Prob concepts
+
+* Period 1 
+    * Goals: 
+        * [x] Read NYTimes (while I finish my breakfast)
+        * [ ] Read Algerian Chronicles for the rest of my time
+    * Comments:
+        * Well, I kept reading news for the entire hour just because there are so many things going on. I really need to slow down and contemplate on that. 
+
+* Period 2 
+    * Goals:
+        * [x] Daily Coding Challenge
+    * Comments:
+        * I would never come up with a dynamically programming solution like this... quite fun. Still need to think about it a bit more.
+
+* Period 3:
+    * Goals:
+        * [ ] Review Weak Law of Large Numbers (In Progress)
+        * [ ] Review Central Limit Theorem
+    * Comments:
+        * This class is awesome! I wish I was in MIT for my undergraduate classes... 
+        * That is, 6.041, Probabilistic Systems Analysis and Applied Probability at MIT, which is available on OCW. 
 
