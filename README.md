@@ -195,10 +195,10 @@ Daily Goal:
         * This class explains many of the concepts that I took without much confidence before. Slow down and take it in! 
 
 ### 06/07/2020
-Daily Goals: 
+Daily Goals:   
     [ ] Finish Stats Problem Set 1
     [ ] Reflect on current events
-    [ ] Review Stats and Prob concepts
+    [x] Review Stats and Prob concepts
 
 * Period 1 
     * Goals: 
@@ -220,4 +220,35 @@ Daily Goals:
     * Comments:
         * This class is awesome! I wish I was in MIT for my undergraduate classes... 
         * That is, 6.041, Probabilistic Systems Analysis and Applied Probability at MIT, which is available on OCW. 
+
+* Period 4:
+    * Goals:
+        * [x] Finish video on Weak Law of Large Numbers
+        * [x] Finish on the video on Central Limit Theorem 
+        * [ ] Review lecture 2 material (In Progress)
+    * Comments:
+        * Finished Weak Law of Large Numbers. Made connections with Markov and Chebyshev's Inequalities. Very fun lecture. 
+        * Done with the two videos. They really helped! Currently working on the note of lecture 2
+        * Need a plan, so I can predict how many classes I can finish by the end of this summer
+
+* Period 5:
+    * Goals:
+        [ ] Review Lecture 2 Material (In Progress)
+
+* Period 6:
+    * Goals:
+        * [ ] Finish lecture 2 material review (In Progress)
+    * Comments: 
+        * I was late for this period due to prolonged workout. I started 16 mins late, so I will end this period 16 mins late.
+        * Rewatching the part on Delta Method 
+
+* Period 7: 
+    * Goals:
+        * [x] Finish lecture 2 material review
+    * Comments:
+        * Finished review! It was exhilirating to see why we can replace p-hat with p using Slutsky. So many mysterious solved! 
+        * Also all the convergences expanded my vocabularies immensely. I love this class so far, and my struggles today paid off.
+
+
+
 
