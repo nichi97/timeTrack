@@ -193,12 +193,13 @@ Daily Goal:
             * All the convergences
             * Slutsky's Theorem
         * This class explains many of the concepts that I took without much confidence before. Slow down and take it in! 
+---------------------------------------
 
 ### 06/07/2020
 Daily Goals:   
-    [ ] Finish Stats Problem Set 1
-    [ ] Reflect on current events
-    [x] Review Stats and Prob concepts
+* [ ] Finish Stats Problem Set 1
+* [ ] Reflect on current events
+* [x] Review Stats and Prob concepts
 
 * Period 1 
     * Goals: 
@@ -249,6 +250,111 @@ Daily Goals:
         * Finished review! It was exhilirating to see why we can replace p-hat with p using Slutsky. So many mysterious solved! 
         * Also all the convergences expanded my vocabularies immensely. I love this class so far, and my struggles today paid off.
 
+### 06/08/2020
+
+Daily Plan:
+
+* Finish Stats HW1
+* Contemplate on HK
+* Start on Stats video 3  
+
+* Period 1:
+    * Goal:
+        1. [ ] Finish Stats HW1 (In Progress)
+    * Comments:
+        1. Waked up 20 mins late, will make it up in the afternoon. 
+        1. Struggling! But it is fine
+
+* Period 2:
+    * Goal:
+        1. [x] Read News
+        1. [ ] Finish Stats HW1 (In Progress)
+    * Comments:
+        1. Finish Problem 1.1 lol 
+
+* Period 2 extended:
+    * Goals:
+        1. [ ] Finish Stats HW1 Problem 1 (In Progress)
+    * Comments:
+        1. Since I went to the bathroom, addition to me being late this morning, there will be a 35 mins extended period occuring in place of the first workout/rest session
+        1. Only one problem left! 
+
+* Period 3:
+    * Goals:
+        1. [x] Watch Khan Academy macroecon
+        2. [ ] Finish Stats HW1 Problem 1
+        3. [ ] Finish Stats HW1 Problem 2 (In Progress)
+
+    * Comments:
+        1. Started on Problem 2, got stuck on the last problem in HW1 Problem 1
+
+* Period 4 - 7:
+    * Resting in the after noon :O Felt sort of guilty, but resting is needed.
+    * This is partly due to my lack of sleep the previous night. Going to bed early is imperious to next day's study.
 
 
+### 06/09/2020
+
+* Daily Goal:
+    1. [x] Finish Stats HW1
+    1. [x] Finish Another Stats Class video
+    1. [ ] Contemplate on current events
+    1. [x] get back to schedule
+    1. [ ] Plan for classes in the fall quarter
+    1. [ ] Estimate time needed to finish couses
+
+* Period 1:
+    * Goals:
+        * [x] Planning out the day
+        * [x] Read news
+        * [ ] Finish Stats HW1 Problem 2 (In Progress)
+
+    * Comments:
+        *  On the last part of HW1 in Problem 2
+
+* Period 2:
+    * Goals:
+        * [x] Finish Stats HW1 Problem 2
+        * [ ] Finish Stats HW1 Problem 3 (In Progress)
+    * Comments:
+        * Half way through Problem 3 now.
+        * Very rewarding homework problems
+
+* Period 3:
+    * Goals:
+        * [ ] Finish Stats HW1 Problem 3 (In Progress)
+    * Comments:
+        * Almost done. Got stuck solving a inequality
+
+* Period 4:
+    * Goals:
+        * [x] Finish Stats HW1 
+    * Comments:
+        * Done! There are two problems I got stuck on, so I need to think about them more. But for the rest, this homework it done.
+        * I still need to check the solution if I can find the solution that is. 
+
+* Period 5:
+    * Goals:
+        * [ ] Finish Stats Video Lecture 3 (In Progress)
+
+* Period 6:
+    * Goals:
+        * [ ] Finish Stats Video Lecture 3 (In Progress)
+    * Comments:
+        * Almost done with it. This class really brings everything together. The cohesion of the materials is absolutely amazing. 
+
+* Period 7:
+    * Goals:
+        * [x] Finish Stats Video Lecture 3 
+        * [ ] Review Stats Video Lecture 3 class note
+    * Comments:
+        * Done with the video lecture! Still going through the fine points from the slides and notes
+
+
+
+
+
+
+
+    
 
