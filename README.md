@@ -247,7 +247,7 @@ Daily Goals:
     * Goals:
         * [x] Finish lecture 2 material review
     * Comments:
-        * Finished review! It was exhilirating to see why we can replace p-hat with p using Slutsky. So many mysterious solved! 
+        * Finished review! It was exhilarating to see why we can replace p-hat with p using Slutsky. So many mysterious solved! 
         * Also all the convergences expanded my vocabularies immensely. I love this class so far, and my struggles today paid off.
 
 ### 06/08/2020
@@ -281,7 +281,7 @@ Daily Plan:
 
 * Period 3:
     * Goals:
-        1. [x] Watch Khan Academy macroecon
+        1. [x] Watch Khan Academy macroEcon
         2. [ ] Finish Stats HW1 Problem 1
         3. [ ] Finish Stats HW1 Problem 2 (In Progress)
 
@@ -301,7 +301,7 @@ Daily Plan:
     1. [ ] Contemplate on current events
     1. [x] get back to schedule
     1. [ ] Plan for classes in the fall quarter
-    1. [ ] Estimate time needed to finish couses
+    1. [ ] Estimate time needed to finish courses
 
 * Period 1:
     * Goals:
@@ -350,6 +350,82 @@ Daily Plan:
     * Comments:
         * Done with the video lecture! Still going through the fine points from the slides and notes
 
+### 06/10/2020
+
+* Daily Goals
+    1. [x] Finish Stats Video on Parametric Inference
+    1. [ ] Check out Electron - Follow the 'hello world' guide
+    1. [ ] Contemplate on current events
+    1. [ ] Plan for classes in the fall quarter
+    1. [ ] Estimate time needed to finish courses
+
+* Period 1
+    * Goals:
+        1. [x] Planning for the day
+        1. [x] Finish Reviewing Stats Video lecture 3 class note
+        1. [x] Read News
+    * Comments:
+        1. Simply reading the news is not enough. There must be reflections. 
+
+* Period 2, 3
+    * Doing Research on Hong Kong.
+
+
+* Period 4: 
+    * Goals:
+        1. [ ] Finish Video Lecture 4 (In Progress)
+    * Comments:
+        1. I love this class. Such a lucid way of organizing knowledge and you really see connections between these concepts instead of as discrete concepts.
+
+* Period 5:
+    * Goals:
+        1. [x] Finish Video Lecture 4
+    * Comments:
+        1. How the heck could you connect KL with likelihood and MLE??? This is beyond amazement. The amount of concepts that this thread connects is quite bountiful. Looking forward to the next lecture.
+
+* Period 6,7:
+    Did not stick to my schedule... sad.
+
+### 06/11/2020
+
+* Goals:
+    1. [ ] Review Note for Lecture 4
+    1. [ ] Finish video lecture 5
+    1. [ ] Check out Electron - Follow the 'hello world' guide
+    1. [ ] Contemplate on current events
+    1. [ ] Plan for classes in the fall quarter
+    1. [ ] Estimate time needed to finish courses
+    1. [ ] Do STATS HW2
+    1. [ ] Check on STATS HW1
+
+    
+* Period 1:
+    * Goals:
+        1. [ ] Review lecture 4 note (In Progress)
+        1. [ ] Watch lecture 5 video
+
+    
+* Period 2:
+    * Goals:
+        1. [x] Review lecture 4 note 
+        1. [ ] Watch lecture 5 video (In Progress)
+
+    * Comments:
+        1. I can totally see how convex optimization is used in statistics
+
+    
+* Period 3:
+    * Goals:
+        1. [ ] Watch lecture 5 video (In Progress)
+
+
+
+
+
+
+
+
+
 
 
 
@@ -357,4 +433,5 @@ Daily Plan:
 
 
     
+
 
