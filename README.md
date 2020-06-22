@@ -389,10 +389,10 @@ Daily Plan:
 ### 06/11/2020
 
 * Goals:
-    1. [ ] Review Note for Lecture 4
-    1. [ ] Finish video lecture 5
-    1. [ ] Check out Electron - Follow the 'hello world' guide
-    1. [ ] Contemplate on current events
+    1. [x] Review Note for Lecture 4
+    1. [x] Finish video lecture 5
+    1. [x] Check out Electron - Follow the 'hello world' guide
+    1. [x] Contemplate on current events
     1. [ ] Plan for classes in the fall quarter
     1. [ ] Estimate time needed to finish courses
     1. [ ] Do STATS HW2
@@ -418,20 +418,213 @@ Daily Plan:
     * Goals:
         1. [ ] Watch lecture 5 video (In Progress)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     
+* Period 4:
+    * Goals:
+        1. [x] Watch lecture 5 video
+        1. [ ] Check out Electron(In Progress)
+
+
+* Period 5:
+    * Goals:
+        1. [ ] Check out Node.js(In Progress)
+    * Comments:
+        1. It would seem that I need some foundation from Node.js to learn Electron. 
+
+* Period 6:
+    * Goals:
+        1. [ ] Contemplating on current event
+
+* Period 7:
+    * Read *Understanding Power* by Chomsky
+
+
+### 06/12/2020
+
+* Daily Goals:
+    1. [ ] Plan for classes in the fall quarter
+    1. [ ] Estimate time needed to finish courses
+    1. [ ] Do STATS HW2
+    1. [ ] Check on STATS HW1
+
+* Period 1
+    * Goals:
+        1. [x] Planning for the day
+        1. [ ] Read Understanding Power(In Progress)
+
+* Period 2
+    * Goals:
+        1. [ ] Read Understanding Power (In Progress)
+
+* Period 3
+    * Goals:
+        1. [ ] Read Understanding Power (In Progress)
+
+* Period 5,6,7
+    * Coding 
+    * Comments:
+        * Missing period 4 due to prolonged cooking session...
+        * *Understanding Power* is such an amazing book to read. Especially going through the footnotes, it reveals how this country has been running, and it also taught me how one must separate the concept of democracy with the U.S. government. 
+
+### 06/13/2020
+
+* Daily Goals:
+    1. [ ] Review Stats Lecture 5 note
+    1. [ ] Two year plan for MCEPA
+    1. [ ] Estimate time needed to finish courses
+    1. [ ] Do STATS HW2
+    1. [ ] Check on STATS HW1
+
+
+* Period 1
+    * Goals:
+        1. [x] Planning for the day
+        1. [ ] Read Understanding Power
+        1. [ ] Two Year Plan for MCEPA (In Progress)
+
+* Period 2
+    * Goals:
+        1. [ ] Two Year Plan for MCEPA (In Progress)
+
+* Period 3
+    * Goals:
+        1. [x] Two Year Plan for Mcepa (In Progress)
+
+    * Comments:
+        1. Listed out classes wanted to take, still need to lay out a schedule, and most importantly, reduce the amount of classes I want to take based on my career path and intellectual curiosity
+
+* Period 4:
+    * Goals:
+        1. [x] Review Stats Lecture 5 Note
+        1. [ ] Start on Stats HW2 (In progress)
+
+* Period 5: 
+    * Goals:
+        1. [x] Read Understanding Power
+    * Comments:
+        1. Read about Operation Mongoose
+        1. Read about dissidence between Soviet Union and Cuba at the end of the Cuba missile Crisis
+        1. Read about relationship between secrecy and governmental power
+        1. Read about Salvadoran Civil War, and U.S. intervention 
+        1. Read about the execution of the Rosenberg's 
+
+* Period 6,7
+    * Lazy Saturday...
+
+### 06/14/2020
+
+* Period 1,2,3:
+    * Coding with Anne
+        1. Try to finish cheapest Flight (Dijkstra), but failed lol 
+        1. Talked about login page design and database design, as well as Electrons setup
+
+* Period 4:
+    * Goals:
+        1. [ ] Do Stats HW2
+
+### 06/15/2020
+
+* Period 1,2,3:
+    * Coding with Anne
+        * Still trying to finish cheapest flight... but failed again.
+
+* Period 4:
+    * Electron integration, logo design of website
+
+### 06/16/2020
+
+* Period 1,2,3:
+    * Coding with Anne
+        * Finally finished modified Dijkstra algorithm!
+        * Did validation on IP address
+
+* Period 4:
+    * Goals:
+        1. [ ] Finish Stats HW2 (In Progress)
+
+* Period 5:
+    * Goals:
+        1. [ ] Finish Stats HW2 (In Progress)
+
+### 06/17/2020
+
+* Period 1
+    * Goals:
+        1. [ ] Finish Stats HW2 (In Progress)
+
+* Period 2
+    * Goals:
+        1. [ ] Finish Stats HW2 (In Progress)
+
+* Period 3
+    * Goals:
+        1. [ ] Research on GitHub Action
+
+* Period 4, 5, 6
+    * Coding with Anne
+
+### 06/18/2020
+
+* Period 1, 2, 3
+    * Coding with Anne
+
+* Period 4,5,6,7
+    * [ ] Finish Stats HW2
+    
+### 06/19/2020
+
+* Period 1,2,3
+    * Coding with Anne
+
+* Period 4:
+    * Goals
+        1. [x] Finish HW2 (Finally!!!)
+        1. [ ] Start Lecture 6 video (In Progress)
+        1. [ ] Come up with plan to finish Stats by the end of this month
+
+* Period 5:
+    * Goals
+        1. [ ] Finish Lecture 6 video (In Progress)
+        1. [ ] Come up with plan to finish Stats by the end of this month
+
+* Period 6:
+    * Goals
+        1. [x] Finish Lecture 6 Video 
+    
+
+### 06/20/2020
+
+* Period 1
+    * Goals:
+        1. [ ] Review Lecture 6 material (In Progress)
+        1. [ ] Come up with plan to finish 18.650 by the end of this month
+
+* Period 2
+    * Goals:
+        1. Review MLE (In Progress)
+
+* Period 3
+    * Goals:
+        1. Review MLE (In Progress)
+
+* Period 4,5:
+    * Coding for Solarlit
+
+### 06/21/2020
+* Period 1,2,3
+    * Coding with Anne
+
+* Period 4
+    * Goals:
+        1. [x] Review MLE
+
+### 06/22/2020
+
+* Period 1,2,3
+    * Coding with Anne
+
+* Period 4
+    * Goals:
+        1. [x] Read *The Selfish Gene* (In Progress)
 
 
