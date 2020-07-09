@@ -558,7 +558,7 @@ Daily Plan:
 
 * Period 3
     * Goals:
-        1. [ ] Research on GitHub Action
+        1. [ ] Research on GitHub Action(In Progress)
 
 * Period 4, 5, 6
     * Coding with Anne
@@ -569,7 +569,7 @@ Daily Plan:
     * Coding with Anne
 
 * Period 4,5,6,7
-    * [ ] Finish Stats HW2
+    * [ ] Finish Stats HW2 (In Progress)
     
 ### 06/19/2020
 
@@ -627,4 +627,232 @@ Daily Plan:
     * Goals:
         1. [x] Read *The Selfish Gene* (In Progress)
 
+* Period 5
+    * Goals:
+        1. [ ] Start on Stats Homework 3
 
+* Period 6
+    * Goals:
+        1. [x] Finish Watching Wisecrack on Media bias
+        1. [x] Update Book Club info
+        1. [ ] Working on Stats Homework 3 (In Progress)
+
+* Period 7
+    * Goals:
+        1. [ ] Working on Stats Homework 3 (In Progress)
+
+### 06/23/2020
+
+* Period 1
+    * Coding with Anne
+
+* Period 2
+    * Goal:
+        1. [x] Check book club response 
+
+* Period 4
+    * Goal:
+        1. [ ] Finish Stats HW3 (In Progress)
+
+* Period 5
+    * Goal:
+        1. [ ] Finish Stats HW3 (In Progress)
+
+* Period 6
+    * Goal:
+        1. [ ] Finish Stats HW3 (In Progress)
+    * Comments:
+        1. Two more questions! Already on page 7 lol
+
+* Period 7
+    * Goals
+        1. [x] Finish Stats HW3 
+    * Comments:
+        1. Got stuck on proving uniform convergence of poisson(1/n) to dirac function
+
+
+### 06/24/2020
+
+* Period 2
+    * Goals:
+        1. [x] send email to ask about residency
+        1. [x] Modify components
+        1. [ ] Write up Python teaching plan (In Progress)
+
+* Period 3
+    * Goals:
+        1. [ ] Write up Python Teaching Plan (In Progress)
+    
+* Period 1 makeup
+    * Goals:
+        1. [ ] Write up Python Teaching Plan (In Progress)
+
+    * Comments:
+        1. During Period 1, the Aikido Zoom Dojo was held, so I moved my workout schedule forward.
+
+### 06/25/2020
+* Period 1
+    * Coding with Anne
+
+* Period 2
+    * Goals: 
+        1. [x] Reading *The Selfish Gene*
+
+* Period 3
+    * Goals:
+        1. [ ] Write up Course Topics (In Progress)
+
+
+### 06/26/2020
+* Period 1,2
+    * Coding with Anne
+
+* Period 3
+    * Read *The Selfish Gene*
+
+* Period 4
+    * Read *The Selfish Gene*
+
+* Period 5
+    * [ ] Set up frontend
+
+### 06/27/2020, 06/28/2020 Weekend, break
+
+### 06/29/2020
+
+* Period 2
+    * Goals
+        1. [ ] Finish Python Teaching Project meeting preparation (In Progress)
+
+* Period 3
+    * Goals
+        1. [x] Finish Python Teaching Project meeting preparation (In Progress)
+
+
+* Period 4
+    * Goals
+        1. [x] Facilitate Python study session
+
+* Period 5
+    * Goals
+        1. [x] Facilitate Python study session
+        1. [ ] Review Method of Moments ( In Progress)
+
+* Period 6
+    * Goals
+        1. [ ] Review Method of Moments (In Progress)
+
+* Period 7
+    * Goals
+        1. [ ] Review Method of Moments (In Progress)
+    * Comments
+        1. Finished the proof on determinant of Vandermonde matrix
+
+### 06/30/2020
+
+* Pre Period 1 (7:00 - 7:50 am)
+    * Goals:
+        [x] Coding with Anne
+
+* Period 1
+    * Goals:
+        [ ] Coding with Anne
+
+
+### 07/01/2020
+
+* Period 1
+    * Goals:
+        [x] Coding With Anne
+* Period 2
+    * Goals:
+        [x] Coding with Anne
+    * Comments:
+        Need to learn object oriented programming in Python
+
+* Period 3
+    * Goals:
+        [ ] Review Method of Moment (In Progress)
+    * Comments:
+        1. Doing research on multivariate Gaussian
+
+* Period 4,5
+    * Python teaching Project
+
+* Period 6,7
+    * Played Tennis with Etsu
+
+### 07/02/2020
+    * Period 1,2
+        * Goals:
+            1. [x] Coding with Anne
+            1. [ ] Reading *The Selfish Gene*
+        * Comments:
+            1. Need to do some more research on D3.js
+
+### 07/03/2020 - 07/05/2020
+    * Bought a car
+
+### 07/06/2020
+    * Pre Period 1
+        * Goals:
+            [ ] 1. Prep for Python meeting today, finish tuple and set
+        * Comments:
+            1. Finished Recap instead
+
+    * Period 1
+        * Goals
+            [ ] 1. Prep for Python meeting today, finish tuple and set (In Progress)
+        * Comments
+            1. Done with tuple, almost done with set
+
+    * Period 2
+        * Goals
+            [x] 1. Prep for Python meeting today, finish Set
+
+    * Period 3
+        * Goals:
+            [ ] 1. Read *The Selfish Gene*
+
+### 07/07/2020
+    
+### 07/08/2020
+    * Pre Period 1
+        * Goals:
+            [ ] 1. Prep for Python meeting today, start on function
+            [x] 1. Code with Anne
+
+    * Period 1
+        * Goals:
+            [ ] 1. Code with Anne
+
+    * Period 2
+        * Goals:
+            [ ] 1. Prep for Python meeting today, start on function
+
+    * Period 4
+        * Goals:
+            [ ] 1. Read *The Selfish Gene* 
+
+    * period 5
+        * Goals:   
+            [x] 1. Finish reading *The Selfish Gene* Chapter 7
+            [x] 1. Transcribe Moon river
+
+    * Period 6
+        * Goals:
+            [x] 1. Start on Lecture 7 
+
+### 07/08/2020
+    * Daily Goal
+        1. Go to Aikido practice today
+        1. Finish Lecture 7 today
+        1. Moon river keep going
+        1. Read one chapter of Selfish Gene
+        1. Python meeting
+    
+    * Period 1, 2:
+        1. [x] Coding with Anne
+
+
+ 
